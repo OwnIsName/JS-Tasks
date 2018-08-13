@@ -41,4 +41,5 @@ const getTotalPrice = function(products, order){
 console.log(getTotalPrice(products, orderA)); // 140
 
 console.log(getTotalPrice(products, orderB)); // 130
+//TEEESSSTST
 
